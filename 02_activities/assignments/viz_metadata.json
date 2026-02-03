@@ -1,0 +1,6 @@
+{
+  "csv_file": "tallest_buildings_top33_2026_ctbuh.csv",
+  "csv_sha256": "fc9f55b47f257e0a16977762117c5e978bf3ddb647212c9950db15eba07b6ff5",
+  "pandas_version": "2.1.4",
+  "matplotlib_version": "3.8.0"
+}
