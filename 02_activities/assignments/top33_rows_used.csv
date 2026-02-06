@@ -1,0 +1,34 @@
+rank,building,city,country,completed_year,height_m,floors,structural_system,primary_function
+1,Burj Khalifa,Dubai,United Arab Emirates,2010,828,163,Steel Over Concrete,Office / Residential / Hotel
+2,Merdeka 118,Kuala Lumpur,Malaysia,2023,679,118,Concrete-Steel Composite,Hotel / Serviced Apartments / Office
+3,Shanghai Tower,Shanghai,China,2015,632,128,Concrete-Steel Composite,Hotel / Office
+4,Makkah Royal Clock Tower,Mecca,Saudi Arabia,2012,601,120,Steel Over Concrete,Serviced Apartments / Hotel / Retail
+5,Ping An Finance Center,Shenzhen,China,2017,599,115,Concrete-Steel Composite,Office
+6,Lotte World Tower,Seoul,South Korea,2017,555,123,Concrete-Steel Composite,Hotel / Residential / Office / Retail
+7,One World Trade Center,New York City,United States,2014,541,94,Concrete-Steel Composite,Office
+8,Guangzhou CTF Finance Centre,Guangzhou,China,2016,530,111,Composite,Hotel / Residential / Office
+8,Tianjin CTF Finance Centre,Tianjin,China,2019,530,97,Concrete-Steel Composite,Hotel / Serviced Apartments / Office
+10,CITIC Tower,Beijing,China,2018,528,109,Concrete-Steel Composite,Office
+11,TAIPEI 101,Taipei,Taiwan,2004,508,101,Composite,Office
+12,Shanghai World Financial Center,Shanghai,China,2008,492,101,Concrete-Steel Composite,Hotel / Office
+13,International Commerce Centre,Hong Kong,China,2010,484,108,Concrete-Steel Composite,Hotel / Office
+14,Wuhan Greenland Center,Wuhan,China,2023,476,101,Concrete-Steel Composite,Hotel / Serviced Apartments / Office
+15,Central Park Tower,New York City,United States,2020,472,98,All-Concrete,Residential / Retail
+16,Lakhta Center,St. Petersburg,Russia,2019,462,87,Concrete-Steel Composite,Office
+17,Vincom Landmark 81,Ho Chi Minh City,Vietnam,2018,461,81,Concrete-Steel Composite,Hotel / Residential
+18,The Exchange 106,Kuala Lumpur,Malaysia,2019,454,95,Concrete-Steel Composite,Office
+19,Changsha IFS Tower T1,Changsha,China,2018,452,94,Concrete-Steel Composite,Hotel / Office
+20,Petronas Twin Tower 1,Kuala Lumpur,Malaysia,1998,452,88,Concrete-Steel Composite,Office
+20,Petronas Twin Tower 2,Kuala Lumpur,Malaysia,1998,452,88,Concrete-Steel Composite,Office
+22,Suzhou IFS,Suzhou,China,2019,450,95,Concrete-Steel Composite,Hotel / Office / Serviced Apartments
+22,Zifeng Tower,Nanjing,China,2010,450,66,Concrete-Steel Composite,Hotel / Office
+24,Wuhan Tower,Wuhan,China,2019,443,88,Concrete-Steel Composite,Hotel / Residential / Office
+25,Willis Tower,Chicago,United States,1974,442,108,All-Steel,Office
+26,KK100,Shenzhen,China,2011,442,98,Concrete-Steel Composite,Hotel / Office
+27,Guangzhou International Finance Center,Guangzhou,China,2010,439,101,Concrete-Steel Composite,Hotel / Office
+28,111 West 57th Street,New York City,United States,2021,435,84,Steel Over Concrete,Residential
+29,One Vanderbilt Avenue,New York City,United States,2020,427,62,Concrete-Steel Composite,Office
+30,432 Park Avenue,New York City,United States,2015,426,85,All-Concrete,Residential
+31,Marina 101,Dubai,United Arab Emirates,2017,425,101,All-Concrete,Residential / Hotel
+32,Trump International Hotel & Tower,Chicago,United States,2009,423,98,All-Concrete,Residential / Hotel
+33,JPMorgan Chase World Headquarters,New York City,United States,2025,423,60,Concrete-Steel Composite,Office
